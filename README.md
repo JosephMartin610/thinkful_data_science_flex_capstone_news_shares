@@ -13,9 +13,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/yamqwe/predicting-
 - Fernandes et al., 2015. A Proactive Intelligent Decision Support System for Predicting the Popularity of Online News [[PDF](https://github.com/JosephMartin610/thinkful_data_science_flex_capstone_news_shares/blob/main/Fernandes_et_al_2015.pdf)].
 - The research article was consulted for information about the dataset.
 - The dataset was created by retrieving content of all articles published on Mashable from January 7, 2013 to January 7, 2015.
-
-
-- 
+- There are numerous potential features available, which are categorized as shown in this [table]() from the research article. 
 
 The data used for this project are a random subset of blogs, news, and tweet items (350,000 items) used to build a catalog of n-grams (sentence fragment of n words; n = 1:5) and their occurrence counts. The source blogs, news, and tweet data can be obtained [here](https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip). The source data files and intermediate data files are too large to be stored on GitHub, so to make use of this, please repeat all steps in R.
 
