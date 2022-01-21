@@ -23,4 +23,4 @@ All of the code and results are in one Jupypter notebook, [supervised_learning_c
 
 **Presentation**
 
-The development and performance of the models are described here in the capstone [presentation](). 
+The development and performance of the models are described here in the capstone [presentation](https://github.com/JosephMartin610/thinkful_data_science_flex_capstone_news_shares/blob/main/supervised_learning_capstone.pdf).
