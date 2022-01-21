@@ -15,7 +15,7 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/yamqwe/predicting-
 - The dataset was created by retrieving content of all articles published on Mashable from January 7, 2013 to January 7, 2015.
 - There are numerous potential features available, which are categorized as shown in this [table](https://github.com/JosephMartin610/thinkful_data_science_flex_capstone_news_shares/blob/main/feature_categories.png) from the research article. 
 
-The data file is availble [here](https://github.com/JosephMartin610/thinkful_data_science_flex_data_files/blob/main/OnlineNewsPopularity.csv) in another repository. The information file is available [here](https://github.com/JosephMartin610/thinkful_data_science_flex_capstone_news_shares/blob/main/OnlineNewsPopularity.names).
+The data file is available [here](https://github.com/JosephMartin610/thinkful_data_science_flex_data_files/blob/main/OnlineNewsPopularity.csv) in another repository. The information file is available [here](https://github.com/JosephMartin610/thinkful_data_science_flex_capstone_news_shares/blob/main/OnlineNewsPopularity.names).
 
 **Jupyter Notebook**
 
