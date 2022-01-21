@@ -19,14 +19,7 @@ The data file is availble [here](https://github.com/JosephMartin610/thinkful_dat
 
 **Jupyter Notebook**
 
-The order in which to run the R scripts is as follows:
-- read_corpora_scr.R (calls read_corpora.R)
-- tknz_scr.R (calls rmv_pf.R and tokenize.R)
-- make_ngrams_scr.R (calls make_ngrams_from_tokens.R)
-- good_turing_disc_scr.R (calls simple_good_turing.R)
-- merge_ns_ngrams_counts_for_model_gtd.R
-- model_test_scr.R (calls pred_text_ngrams_kbo_gtd.R which calls model_ngrams_kbo_gtd.R)
-- app.R to run Shiny app (calls pred_text_ngrams_kbo_gtd.R which calls model_ngrams_kbo_gtd.R)
+All of the code is in one Jupypter notebook, 
 
 **Presentation**
 
