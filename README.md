@@ -19,8 +19,8 @@ The data file is availble [here](https://github.com/JosephMartin610/thinkful_dat
 
 **Jupyter Notebook**
 
-All of the code is in one Jupypter notebook, [supervised_learning_capstone_classification.ipynb](https://github.com/JosephMartin610/thinkful_data_science_flex_capstone_news_shares/blob/main/supervised_learning_capstone_classification.ipynb).
+All of the code and results are in one Jupypter notebook, [supervised_learning_capstone_classification.ipynb](https://github.com/JosephMartin610/thinkful_data_science_flex_capstone_news_shares/blob/main/supervised_learning_capstone_classification.ipynb).
 
 **Presentation**
 
-Results are described here: The capstone presentation is [here](https://htmlpreview.github.io/?https://github.com/JosephMartin610/coursera_data_science_capstone_bated_breath_word_generator/blob/main/word_generator_presentation-rpubs.html). It has information about model basis and performance.
+The development and performance of the models are described here in the capstone [presentation](). 
