@@ -10,7 +10,7 @@
 **Source Data**
 
 The dataset was obtained from [Kaggle](https://www.kaggle.com/yamqwe/predicting-number-of-shares-of-news-articles), but originally comes from this research project:
-- Fernandes et al., 2015. A Proactive Intelligent Decision Support System for Predicting the Popularity of Online News [PDF].
+- Fernandes et al., 2015. A Proactive Intelligent Decision Support System for Predicting the Popularity of Online News [PDF](https://github.com/JosephMartin610/thinkful_data_science_flex_capstone_news_shares/blob/main/Fernandes_et_al_2015.pdf).
 - The research article was consulted for information about the dataset.
 - The dataset was created by retrieving content of all articles published on Mashable from January 7, 2013 to January 7, 2015.
 
